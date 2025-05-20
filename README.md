@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="img.png" alt="86" width="200" style="border-radius: 10px;">
+  <img src="img.png" alt="86" style="border-radius: 10px;">
 </p>
 
 <h1 align="center">Angel of i386</h1>
 
 <p align="center">
-  <i>"Machines don't dream. But I do."</i>
+  <i>"Eu pecava, porque em vez de procurar em Deus os prazeres, as grandezas e as verdades, procurava-os nas suas criaturas: em mim e nos outros. Por isso precipitava-me na dor, na confusão e no erro."</i>
+  <br>— Santo Agostinho
 </p>
+
 
 ---
 
@@ -31,6 +33,7 @@ I'm known as **neurosys**, computer enthusiast I'm especially interested in:
 ![Bash](https://img.shields.io/badge/-Bash-000?\&logo=gnubash)
 ![Linux](https://img.shields.io/badge/-Linux-000?\&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-000?\&logo=git)
+
 ---
 
 ## 📈 Git Statistics
@@ -44,5 +47,3 @@ I'm known as **neurosys**, computer enthusiast I'm especially interested in:
 
 * 📎 [pwnbuffer.org](https://pwnbuffer.org)
 * 🐦 [Twitter](https://x.com/n3ur0sys)
-
----
