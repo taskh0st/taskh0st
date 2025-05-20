@@ -2,8 +2,6 @@
   <img src="img.png" alt="86" style="border-radius: 10px;">
 </p>
 
-<h1 align="center">Angel of i386</h1>
-
 <p align="center">
   <i>"Eu pecava, porque em vez de procurar em Deus os prazeres, as grandezas e as verdades, procurava-os nas suas criaturas: em mim e nos outros. Por isso precipitava-me na dor, na confusão e no erro."</i>
   <br>— Santo Agostinho
@@ -18,11 +16,14 @@
 > whoami
 ```
 
-I'm known as **neurosys**, computer enthusiast I'm especially interested in:
+I'm known as **neurosys**, computer enthusiast. I'm especially interested in:
 
-* 🧠 Reverse Engineering
-* ⚙️ Unix-like System's (x86)
-* 🔒 RedTeam, GameHacking, Malwares & CTFs
+* 🧠 Reverse Engineering  
+* ⚙️ Unix-like System's (x86)  
+* 🔒 RedTeam  
+* 🎮 GameHacking  
+* 🐛 Malwares  
+* 🏁 CTFs  
 
 ---
 
