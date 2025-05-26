@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <i>"Eu pecava, porque em vez de procurar em Deus os prazeres, as grandezas e as verdades, procurava-os nas suas criaturas: em mim e nos outros. Por isso precipitava-me na dor, na confusão e no erro."</i>
-  <br>— Santo Agostinho
+  <i>"Ave Maria, gratia plena, Dominus tecum. Benedicta tu in mulieribus, et benedictus fructus ventris tui, Iesus. Sancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc, et in hora mortis nostrae. Amen."</i>
+  <br>— for Mary, mother of Jesus.
 </p>
 
 
