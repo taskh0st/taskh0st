@@ -45,6 +45,4 @@ I'm known as **neurosys**, computer enthusiast. I'm especially interested in:
 ---
 
 ## 🔗 Links
-
-* 🔗 [pwnbuffer.org](https://pwnbuffer.org)
 * 🐦 [x.com](https://x.com/n3ur0sys)
