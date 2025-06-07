@@ -39,7 +39,7 @@ I'm known as **neurosys**, computer enthusiast. I'm especially interested in:
 
 ## 📈 Git Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xvoiiid&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="86daemon's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3ur0sys&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="86daemon's Top Languages">
 </p>
 
 ---
