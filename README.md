@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img.png" alt="86" style="border-radius: 10px;">
+  <img src="image.png" alt="86" style="border-radius: 10px;">
 </p>
 
 <p align="center">
