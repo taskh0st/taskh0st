@@ -1,4 +1,4 @@
 ```bash
-> whoami
-v0id
+v0id@sky~ $ whoami
+a lunatic!
 ```
